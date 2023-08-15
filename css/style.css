@@ -67,9 +67,9 @@ body{
     justify-content: center;
     align-items: center;
 }
-/* .main__form label:hover{
+.main__label:hover{ 
     background-color: hsl(25, 97%, 53%);
-} */
+}
 
 
 .main__form input{
@@ -129,7 +129,7 @@ body{
 
 @media screen and (min-width: 1024px) {
     body{
-        font-size: 1.5rem;
+        font-size: 1rem;
     }
     .main__form label{
         width: 60px;
